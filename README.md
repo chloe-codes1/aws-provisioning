@@ -10,3 +10,6 @@ This workshop contains workshop codes. If you follow this workshop with workshop
 ## Update Information
 - 2020.04.22 : Open workshop files & update terraform code for VPC, IAM, S3
 - 2020.04.29 : Update terraform code for KMS and RDS 
+
+<br>
+
